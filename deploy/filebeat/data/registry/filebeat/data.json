@@ -1,1 +1,1 @@
-[]
+[{"source":"/usr/share/filebeat/logs/info.log","offset":60,"timestamp":"2024-06-23T14:24:37.564206786Z","ttl":-1,"type":"log","meta":null,"FileStateOS":{"inode":554835333,"device":2051}}]
