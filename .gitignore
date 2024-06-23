@@ -7,3 +7,6 @@
 *.iml
 out
 gen
+
+data/elasticsearch
+!data/elasticsearch/.gitkeep
